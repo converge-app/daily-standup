@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Sep 6, 2019*\n",
+        "ts": "1567779045.000100",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Still have time to report: <@UKL7DQYQ4>, <@UKP39PSBW>",
+                "id": 1,
+                "color": "F8AC59",
+                "fallback": "Still have time to report: <@UKL7DQYQ4>, <@UKP39PSBW>"
+            },
+            {
+                "pretext": "Participation: *0%*",
+                "id": 2,
+                "fallback": "[no preview available]"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8f5c34e-ced5-43ef-af6f-b85b25cbfde1",
+        "type": "message",
+        "text": "*What did you do since yesterday?*\nI wrote a bunch more on requirements specification\n*What will you do today?*\nToday we will talk to our supervisor, and have a general meeting. From the conversation, we got some great insights.",
+        "user": "UKL7DQYQ4",
+        "ts": "1567783497.001000",
+        "team": "TKNGYGV1D",
+        "user_team": "TKNGYGV1D",
+        "source_team": "TKNGYGV1D",
+        "user_profile": {
+            "avatar_hash": "f1bda052d8d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-12\/757479952148_f1bda052d8d94fbd6f14_72.jpg",
+            "first_name": "Kasper",
+            "real_name": "Kasper Juul Hermansen",
+            "display_name": "",
+            "team": "TKNGYGV1D",
+            "name": "converge.kjuulh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKL7DQYQ4",
+            "ts": "1567783535.000000"
+        }
+    }
+]

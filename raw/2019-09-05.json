@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "a7f225cb-5e5f-4ac3-a21a-b2f0b82c9000",
+        "type": "message",
+        "text": "*What did you do since yesterday?*\nSince yesterday I've setup template for requirements specification and added more support for logging and tracing in our backend applications\n*What will you do today?*\nToday I will work more on logging and tracing, plus writing a service and do some work on our requirements specification, specifically on requirements.",
+        "user": "UKL7DQYQ4",
+        "ts": "1567678183.001900",
+        "team": "TKNGYGV1D",
+        "user_team": "TKNGYGV1D",
+        "source_team": "TKNGYGV1D",
+        "user_profile": {
+            "avatar_hash": "f1bda052d8d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-12\/757479952148_f1bda052d8d94fbd6f14_72.jpg",
+            "first_name": "Kasper",
+            "real_name": "Kasper Juul Hermansen",
+            "display_name": "",
+            "team": "TKNGYGV1D",
+            "name": "converge.kjuulh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKL7DQYQ4",
+            "ts": "1567678231.000000"
+        }
+    },
+    {
+        "client_msg_id": "cb43b5e2-d8ba-4f7d-a034-7f764b37318f",
+        "type": "message",
+        "text": "*What did you do since yesterday?*\nSince yesterday I've worked on home page, about page and freelancer page.\n*What will you do today?*\ntoday i finished   home page, about page and freelancer page",
+        "user": "UKP39PSBW",
+        "ts": "1567690283.003600",
+        "team": "TKNGYGV1D",
+        "user_team": "TKNGYGV1D",
+        "source_team": "TKNGYGV1D",
+        "user_profile": {
+            "avatar_hash": "g75d1bf05df4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ad75d1bf05df4e594abfd6b3844178a9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Samir Habibi",
+            "display_name": "Samir Habibi",
+            "team": "TKNGYGV1D",
+            "name": "samir-habibi1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Sep 5, 2019*\n",
+        "ts": "1567692188.003700",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Still have time to report: <@UKL7DQYQ4>, <@UKP39PSBW>",
+                "id": 1,
+                "color": "F8AC59",
+                "fallback": "Still have time to report: <@UKL7DQYQ4>, <@UKP39PSBW>"
+            },
+            {
+                "pretext": "Participation: *0%*",
+                "id": 2,
+                "fallback": "[no preview available]"
+            }
+        ]
+    }
+]

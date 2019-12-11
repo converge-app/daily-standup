@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Samir Habibi* posted an update for *Daily Standup*",
+        "ts": "1571146763.000100",
+        "username": "Samir Habibi",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-10-15\/783122108802_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\ngood",
+                "text": "good",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since Sep 30?\nwe finished the previous sprint and we were missing a bit also we started on a new sprint. I've been working with the chat page, both front-end and back-end",
+                "text": "we finished the previous sprint and we were missing a bit also we started on a new sprint. I've been working with the chat page, both front-end and back-end",
+                "title": "What did you do since Sep 30?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\ntoday I work primarily on the front-end and have completed the chat page.",
+                "text": "today I work primarily on the front-end and have completed the chat page.",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "Anything blocking your progress?\nyes, i have had some backend issues",
+                "text": "yes, i have had some backend issues",
+                "title": "Anything blocking your progress?",
+                "id": 4,
+                "color": "e59797",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Oct 15, 2019*\n",
+        "ts": "1571148777.000200",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Posted their update: *Samir Habibi*",
+                "id": 1,
+                "color": "6EC792",
+                "fallback": "Posted their update: *Samir Habibi*"
+            },
+            {
+                "text": "Still have time to report: <@UKL7DQYQ4>",
+                "id": 2,
+                "color": "F8AC59",
+                "fallback": "Still have time to report: <@UKL7DQYQ4>"
+            },
+            {
+                "pretext": "Participation: *50%*\nKeep up the good work! :tada:",
+                "id": 3,
+                "fallback": "[no preview available]"
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Kasper Juul Hermansen* posted an update for *Daily Standup*",
+        "ts": "1561112254.000100",
+        "username": "converge.kjuulh",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-06-21\/674400419190_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nI feel great. Thought slightly confused on how to process with my microservice platform",
+                "text": "I feel great. Thought slightly confused on how to process with my microservice platform",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since yesterday?\nI watched a bunch on talks and read resources on Message based architecture (Eventual consistency)",
+                "text": "I watched a bunch on talks and read resources on Message based architecture (Eventual consistency)",
+                "title": "What did you do since yesterday?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\nI will probably see if I can find some more concrete resources on Message based architecture. I will also move GitLab stuff from public gitlab, to Aarhus University based GitLab",
+                "text": "I will probably see if I can find some more concrete resources on Message based architecture. I will also move GitLab stuff from public gitlab, to Aarhus University based GitLab",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "Anything blocking your progress?\nI am awaiting responses from online posts on how to proceed. I lack information on how to built a proper message based architecture. I am also figuring out if ISTIO is the right choice, it seems to introduce much unneeded complexity, that I am not sure we can afford",
+                "text": "I am awaiting responses from online posts on how to proceed. I lack information on how to built a proper message based architecture. I am also figuring out if ISTIO is the right choice, it seems to introduce much unneeded complexity, that I am not sure we can afford",
+                "title": "Anything blocking your progress?",
+                "id": 4,
+                "color": "e59797",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Jun 21, 2019*\n",
+        "ts": "1561125745.000100",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Posted their update: *converge.kjuulh*",
+                "id": 1,
+                "color": "6EC792",
+                "fallback": "Posted their update: *converge.kjuulh*"
+            },
+            {
+                "text": "Still have time to report: <@UKP39PSBW>",
+                "id": 2,
+                "color": "F8AC59",
+                "fallback": "Still have time to report: <@UKP39PSBW>"
+            },
+            {
+                "pretext": "Participation: *50%*\nKeep up the good work! :tada:",
+                "id": 3,
+                "fallback": "[no preview available]"
+            }
+        ]
+    }
+]

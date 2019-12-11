@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Oct 23, 2019*\n",
+        "ts": "1571839808.000100",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Still have time to report: <@UKL7DQYQ4>, <@UKP39PSBW>",
+                "id": 1,
+                "color": "F8AC59",
+                "fallback": "Still have time to report: <@UKL7DQYQ4>, <@UKP39PSBW>"
+            },
+            {
+                "pretext": "Participation: *0%*",
+                "id": 2,
+                "fallback": "[no preview available]"
+            }
+        ]
+    }
+]

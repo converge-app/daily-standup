@@ -1,0 +1,109 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Kasper Juul Hermansen* posted an update for *Daily Standup*",
+        "ts": "1569837925.000100",
+        "username": "converge.kjuulh",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-09-30\/766327194323_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nI feel great",
+                "text": "I feel great",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since Sep 20?\nIt has been a while :slightly_smiling_face:\nFirst of all, I've nearly finished the restructuring of the frontend, the result seems pretty great. It has now integrated more deeply with material ui, formik and redux, which provides great functionality. The site has also launched on Zeit to use their lambda functions to drive agile development and scaleable infra. This is much easier than us having to host it ourselves. It also benefits in the case that it actually handles CI\/CD for use in that case, with an included staging and prod environment.\nSecondly, I've worked on a bit of the documentation, but also on the backend services, authentication and users services has been split, and a few services are planned for this sprint, such as project, bidding and broker etc.",
+                "text": "It has been a while :slightly_smiling_face:\nFirst of all, I've nearly finished the restructuring of the frontend, the result seems pretty great. It has now integrated more deeply with material ui, formik and redux, which provides great functionality. The site has also launched on Zeit to use their lambda functions to drive agile development and scaleable infra. This is much easier than us having to host it ourselves. It also benefits in the case that it actually handles CI\/CD for use in that case, with an included staging and prod environment.\nSecondly, I've worked on a bit of the documentation, but also on the backend services, authentication and users services has been split, and a few services are planned for this sprint, such as project, bidding and broker etc.",
+                "title": "What did you do since Sep 20?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\nToday I will probably write a bit more on the frontend, then open a PR, if I've got the time, I might read the documents Samir should have uploadet to GitBooks and if then I still have time write on some more services, and maybe make them a bit easier to replicate.",
+                "text": "Today I will probably write a bit more on the frontend, then open a PR, if I've got the time, I might read the documents Samir should have uploadet to GitBooks and if then I still have time write on some more services, and maybe make them a bit easier to replicate.",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Samir Habibi* posted an update for *Daily Standup*",
+        "ts": "1569847655.000200",
+        "username": "Samir Habibi",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-09-30\/779829586103_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\ngreat",
+                "text": "great",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since Thursday?\ncontinued working with software architecture",
+                "text": "continued working with software architecture",
+                "title": "What did you do since Thursday?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\nwork on software architecture",
+                "text": "work on software architecture",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Sep 30, 2019*\n",
+        "ts": "1569852214.000300",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Posted their update: *converge.kjuulh*, *Samir Habibi*",
+                "id": 1,
+                "color": "6EC792",
+                "fallback": "Posted their update: *converge.kjuulh*, *Samir Habibi*"
+            },
+            {
+                "pretext": "Participation: *100%*\nAwesome, you're doing great! :rocket:",
+                "id": 2,
+                "fallback": "[no preview available]"
+            }
+        ]
+    }
+]

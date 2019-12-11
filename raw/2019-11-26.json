@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Nov 26, 2019*\n",
+        "ts": "1574780464.000300",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Still have time to report: <@UKL7DQYQ4>, <@UKP39PSBW>",
+                "id": 1,
+                "color": "F8AC59",
+                "fallback": "Still have time to report: <@UKL7DQYQ4>, <@UKP39PSBW>"
+            },
+            {
+                "pretext": "Participation: *0%*",
+                "id": 2,
+                "fallback": "[no preview available]"
+            },
+            {
+                "callback_id": "thanksgiving",
+                "text": "Thanksgiving is just around the corner! Go ahead and schedule your *vacation time*, so Geekbot won’t bother you during the holidays. :wink:",
+                "id": 3,
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "thanksgiving",
+                        "text": "Set your out of office period",
+                        "type": "button",
+                        "value": "thanksgiving",
+                        "style": ""
+                    }
+                ],
+                "fallback": "Thanksgiving is just around the corner! Go ahead and schedule your *vacation time*, so Geekbot won’t bother you during the holidays. :wink:"
+            }
+        ]
+    }
+]

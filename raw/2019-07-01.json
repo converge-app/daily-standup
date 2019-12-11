@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Kasper Juul Hermansen* posted an update for *Daily Standup*",
+        "ts": "1561979631.000100",
+        "username": "converge.kjuulh",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-07-01\/669765101570_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nI feel great",
+                "text": "I feel great",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since Thursday?\nI created a test react app, to get familiar with react, react-router and react-redux.",
+                "text": "I created a test react app, to get familiar with react, react-router and react-redux.",
+                "title": "What did you do since Thursday?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\nToday, I'll setup a pipeline and launch a template app on the cluster",
+                "text": "Today, I'll setup a pipeline and launch a template app on the cluster",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "Anything blocking your progress?\nreact-redux is very complex, and there is a barrier to my velocity in its complexity",
+                "text": "react-redux is very complex, and there is a barrier to my velocity in its complexity",
+                "title": "Anything blocking your progress?",
+                "id": 4,
+                "color": "e59797",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Jul 1, 2019*\n",
+        "ts": "1561990341.000200",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Posted their update: *converge.kjuulh*",
+                "id": 1,
+                "color": "6EC792",
+                "fallback": "Posted their update: *converge.kjuulh*"
+            },
+            {
+                "text": "Still have time to report: <@UKP39PSBW>",
+                "id": 2,
+                "color": "F8AC59",
+                "fallback": "Still have time to report: <@UKP39PSBW>"
+            },
+            {
+                "pretext": "Participation: *50%*\nKeep up the good work! :tada:",
+                "id": 3,
+                "fallback": "[no preview available]"
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Oct 10, 2019*\n",
+        "ts": "1570716047.000100",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Still have time to report: <@UKL7DQYQ4>, <@UKP39PSBW>",
+                "id": 1,
+                "color": "F8AC59",
+                "fallback": "Still have time to report: <@UKL7DQYQ4>, <@UKP39PSBW>"
+            },
+            {
+                "pretext": "Participation: *0%*",
+                "id": 2,
+                "fallback": "[no preview available]"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Kasper Juul Hermansen* posted an update for *Daily Standup*",
+        "ts": "1570717930.000200",
+        "username": "converge.kjuulh",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-10-10\/779383033923_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nI feel great",
+                "text": "I feel great",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since Monday?\nSince monday I've worked primarily on the projects services",
+                "text": "Since monday I've worked primarily on the projects services",
+                "title": "What did you do since Monday?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\nToday I will continue, but I will mainly work on the frontend, as the backend is nearing completion",
+                "text": "Today I will continue, but I will mainly work on the frontend, as the backend is nearing completion",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

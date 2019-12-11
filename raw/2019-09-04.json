@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Kasper Juul Hermansen* posted an update for *Daily Standup*",
+        "ts": "1567594625.000100",
+        "username": "Geekbot",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-09-04\/736774500275_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nI feel great",
+                "text": "I feel great",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since Thursday?\nSince thursday I setup Jenkins x for kubernetes, I also spent quite a bit of time, reducing the cost of our kubernetes cluster.",
+                "text": "Since thursday I setup Jenkins x for kubernetes, I also spent quite a bit of time, reducing the cost of our kubernetes cluster.",
+                "title": "What did you do since Thursday?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\nToday I will work on our requirements specification",
+                "text": "Today I will work on our requirements specification",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Sep 4, 2019*\n",
+        "ts": "1567605741.000100",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Posted their update: **",
+                "id": 1,
+                "color": "6EC792",
+                "fallback": "Posted their update: **"
+            },
+            {
+                "text": "Still have time to report: <@UKP39PSBW>",
+                "id": 2,
+                "color": "F8AC59",
+                "fallback": "Still have time to report: <@UKP39PSBW>"
+            },
+            {
+                "pretext": "Participation: *50%*\nKeep up the good work! :tada:",
+                "id": 3,
+                "fallback": "[no preview available]"
+            }
+        ]
+    }
+]

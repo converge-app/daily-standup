@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Kasper Juul Hermansen* posted an update for *Daily Standup*",
+        "ts": "1568201469.000100",
+        "username": "Geekbot",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-09-11\/749938928337_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nI feel great",
+                "text": "I feel great",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since yesterday?\nyesterday I wrote the last sections on our Requirements specification",
+                "text": "yesterday I wrote the last sections on our Requirements specification",
+                "title": "What did you do since yesterday?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\nToday I will setup the next sprint, review Samirs changes, have a meeting with a test user, where we go through the UI, after that I will look into, getting the kubernetes up and running with our first service, the users service.",
+                "text": "Today I will setup the next sprint, review Samirs changes, have a meeting with a test user, where we go through the UI, after that I will look into, getting the kubernetes up and running with our first service, the users service.",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Sep 11, 2019*\n",
+        "ts": "1568210927.000100",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Posted their update: **",
+                "id": 1,
+                "color": "6EC792",
+                "fallback": "Posted their update: **"
+            },
+            {
+                "text": "Still have time to report: <@UKP39PSBW>",
+                "id": 2,
+                "color": "F8AC59",
+                "fallback": "Still have time to report: <@UKP39PSBW>"
+            },
+            {
+                "pretext": "Participation: *50%*\nKeep up the good work! :tada:",
+                "id": 3,
+                "fallback": "[no preview available]"
+            }
+        ]
+    }
+]

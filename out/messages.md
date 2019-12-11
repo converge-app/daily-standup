@@ -1,0 +1,482 @@
+# Converge Daily Standup
+- Name: Kasper Juul Hermansen
+  - Date: 2019-06-18, 17:47:37
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since yesterday?
+  - Answer: I have created the preproject journal, and writen the requirements specification.
+  - Question: What will you do today?
+  - Answer: I will write the last for the preproject journal
+- Name: Kasper Juul Hermansen
+  - Date: 2019-06-19, 09:46:56
+  - Question: How do you feel today?
+  - Answer: Great
+  - Question: What did you do since yesterday?
+  - Answer: I've finished the rest of the required documents for Preproject
+  - Question: What will you do today?
+  - Answer: Create schedule (timeline)
+- Name: Samir Habibi
+  - Date: 2019-06-19, 10:26:25
+  - Question: How do you feel today?
+  - Answer: Great
+  - Question: What did you do since yesterday?
+  - Answer: Since yesterday I have written workplace, Experiment and work plan section finished
+  - Question: What will you do today?
+  - Answer: today i will finish the final writing work and push it up.
+  - Question: Anything blocking your progress?
+  - Answer: yesterday i had trouble pushing things up on gitlab and it is fixed now, but otherwise there was nothing that blocked my progress
+- Name: Kasper Juul Hermansen
+  - Date: 2019-06-20, 07:31:03
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since yesterday?
+  - Answer: I submitted handin for our preproject, as such I also did the review part and created a schedule.
+  - Question: What will you do today?
+  - Answer: Today I am going to organize the next month, and figure out which tools we want for a wholesome Cloud Native project. I way also begin setting up our different templates.
+  - Question: Anything blocking your progress?
+  - Answer: Nothing right now, if anything it's a lack of knowledge about certain DevOps tools
+- Name: Kasper Juul Hermansen
+  - Date: 2019-06-21, 12:17:34
+  - Question: How do you feel today?
+  - Answer: I feel great. Thought slightly confused on how to process with my microservice platform
+  - Question: What did you do since yesterday?
+  - Answer: I watched a bunch on talks and read resources on Message based architecture (Eventual consistency)
+  - Question: What will you do today?
+  - Answer: I will probably see if I can find some more concrete resources on Message based architecture. I will also move GitLab stuff from public gitlab, to Aarhus University based GitLab
+  - Question: Anything blocking your progress?
+  - Answer: I am awaiting responses from online posts on how to proceed. I lack information on how to built a proper message based architecture. I am also figuring out if ISTIO is the right choice, it seems to introduce much unneeded complexity, that I am not sure we can afford
+- Name: Kasper Juul Hermansen
+  - Date: 2019-06-25, 08:22:18
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since Friday?
+  - Answer: I mostly read up on Event driven architecture
+  - Question: What will you do today?
+  - Answer: Today I will read a bit more about event-driven architecture
+- Name: Kasper Juul Hermansen
+  - Date: 2019-06-27, 12:56:12
+  - Question: How do you feel today?
+  - Answer: Great
+  - Question: What did you do since Tuesday?
+  - Answer: I didn't do a thing
+  - Question: What will you do today?
+  - Answer: I will begin setting up the pipeline, ie testing it with a small application
+- Name: Samir Habibi
+  - Date: 2019-06-27, 13:08:24
+  - Question: How do you feel today?
+  - Answer: Great
+  - Question: What will you do today?
+  - Answer: I have talked to my partner about what the plan is for the project over the summer holidays.
+- Name: Kasper Juul Hermansen
+  - Date: 2019-07-01, 13:13:51
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since Thursday?
+  - Answer: I created a test react app, to get familiar with react, react-router and react-redux.
+  - Question: What will you do today?
+  - Answer: Today, I'll setup a pipeline and launch a template app on the cluster
+  - Question: Anything blocking your progress?
+  - Answer: react-redux is very complex, and there is a barrier to my velocity in its complexity
+- Name: Kasper Juul Hermansen
+  - Date: 2019-07-02, 12:04:15
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since yesterday?
+  - Answer: I added Redux for our test app, and failed to use AutoDevOps with GitLab. However, as our react app will need SSR anyway, it doesn't really matter too much. I also considered Next as our SSR, which will require some reconfiguration of the test app. I also read up on which communication platform to use, I decided to test with fetch, as it is the standard. For the sideeffects (fetch) we'll need either redux-saga or trunk. I also read up on Go for Webservices
+  - Question: What will you do today?
+  - Answer: Today I will setup the dockerfile for the nextjs test app. Hopefully with deployment
+- Name: Kasper Juul Hermansen
+  - Date: 2019-07-03, 12:01:35
+  - Question: How do you feel today?
+  - Answer: Great
+  - Question: What did you do since yesterday?
+  - Answer: Yesterday, I did less than expected, I just managed to read up a bit on Redux-saga
+  - Question: What will you do today?
+  - Answer: Today, I'll work on setting up the DevOps pipeline for a test C# project
+- Name: Kasper Juul Hermansen
+  - Date: 2019-07-04, 15:48:09
+  - Question: How do you feel today?
+  - Answer: Great
+  - Question: What did you do since yesterday?
+  - Answer: I got most of the CI/CD pipeline to work
+  - Question: What will you do today?
+  - Answer: Use Helm for the pipeline and fix the scrum board: ask me for invite. Also going to look at nextjs if i've got the time.
+  - Question: Anything blocking your progress?
+  - Answer: Gitlab not being stupid
+- Name: Kasper Juul Hermansen
+  - Date: 2019-07-05, 13:03:37
+  - Question: How do you feel today?
+  - Answer: I feel tired
+  - Question: What did you do since yesterday?
+  - Answer: Yesterday, I got the full CI/CD pipeline to work.
+  - Question: What will you do today?
+  - Answer: Today, I will decide on a frontend framework, read up on react, redux, saga, next etc. And setup a basic template project
+- Name: Kasper Juul Hermansen
+  - Date: 2019-07-08, 13:48:20
+  - Question: How do you feel today?
+  - Answer: Great
+  - Question: What did you do since Friday?
+  - Answer: I didn't do much else than working a bit with next
+  - Question: What will you do today?
+  - Answer: today I will play catch up on some topics I had pushed til now, there is the book golang for webdev, creating a template for go
+  - Question: Anything blocking your progress?
+  - Answer: Time
+- Name: Kasper Juul Hermansen
+  - Date: 2019-07-09, 12:02:27
+  - Question: How do you feel today?
+  - Answer: Tired
+  - Question: What did you do since yesterday?
+  - Answer: I began reading the golang for webdev github book
+  - Question: What will you do today?
+  - Answer: Continue on it and maybe work on a bit of frontend as well
+- Name: Kasper Juul Hermansen
+  - Date: 2019-08-06, 13:17:09
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since Jul 9?
+  - Answer: I've created a design template for the home page and a style guide for the rest. I've also created go and <http://sep.net|sep.net> server templates.
+  - Question: What will you do today?
+  - Answer: Today I'll be quite busy, but I might be able too create design for logon and sign up
+- Name: Kasper Juul Hermansen
+  - Date: 2019-08-12, 15:24:02
+  - Question: How do you feel today?
+  - Answer: Great
+  - Question: What did you do since Tuesday?
+  - Answer: I cleaned up the design preview
+- Name: Kasper Juul Hermansen
+  - Date: 2019-08-15, 14:36:51
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since Monday?
+  - Answer: I have had quite a bit of school work, so I've mostly been designing
+  - Question: What will you do today?
+  - Answer: Design some more
+- Name: Kasper Juul Hermansen
+  - Date: 2019-08-27, 12:25:23
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since Aug 15?
+  - Answer: I setup some programs for converge, such as  gitbooks, slack and figma
+  - Question: What will you do today?
+  - Answer: Today I will create a bit more design, and maybe test and organize our various documents
+- Name: Kasper Juul Hermansen
+  - Date: 2019-08-28, 12:02:49
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since yesterday?
+  - Answer: I created the dashboard view, sign up page. I also organized gitbooks
+  - Question: What will you do today?
+  - Answer: Today I will create Payments, settings, messages both video and chat. And more
+- Name: Samir Habibi
+  - Date: 2019-08-28, 12:34:41
+  - Question: How do you feel today?
+  - Answer: good
+  - Question: What will you do today?
+  - Answer: meeting with Kasper Hermansen, and we have began our first sprints
+- Name: Kasper Juul Hermansen
+  - Date: 2019-08-29, 14:11:16
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since yesterday?
+  - Answer: I haven't done much since yesterday
+  - Question: What will you do today?
+  - Answer: Today I will review the last of Samirs designs, and the rest of what I missed. We also had a talk with our advisor, about if he will be our primary advisor.
+- Name: Samir Habibi
+  - Date: 2019-08-29, 14:27:08
+  - Question: How do you feel today?
+  - Answer: Very good
+  - Question: What did you do since yesterday?
+  - Answer: since yesterday we have finished the design.
+  - Question: What will you do today?
+  - Answer: today I have finished setting up the various pages, installed redux on react, installed material design ui, and corrected review feedback.
+- Name: Samir Habibi
+  - Date: 2019-09-02, 15:54:02
+  - Question: How do you feel today?
+  - Answer: good
+  - Question: What did you do since Thursday?
+  - Answer: we had a supervisor meeting since Thursday and we went through our design.
+  - Question: What will you do today?
+  - Answer: today i have started making homepage for our website
+  - Question: Anything blocking your progress?
+  - Answer: I had a bit of trouble putting a image in the website and then it showed me that the image had broken
+- Name: Samir Habibi
+  - Date: 2019-09-03, 16:48:47
+  - Question: How do you feel today?
+  - Answer: good
+  - Question: What did you do since yesterday?
+  - Answer: worked on home page
+  - Question: What will you do today?
+  - Answer: continue working with home page
+- Name: Kasper Juul Hermansen
+  - Date: 2019-09-04, 12:57:05
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since Thursday?
+  - Answer: Since thursday I setup Jenkins x for kubernetes, I also spent quite a bit of time, reducing the cost of our kubernetes cluster.
+  - Question: What will you do today?
+  - Answer: Today I will work on our requirements specification
+- Name: Kasper Juul Hermansen
+  - Date: 2019-09-09, 12:12:15
+  - Question: How do you feel today?
+  - Answer: Great
+  - Question: What did you do since Wednesday?
+  - Answer: I did a lot
+  - Question: What will you do today?
+  - Answer: Everything
+- Name: Samir Habibi
+  - Date: 2019-09-09, 15:09:54
+  - Question: How do you feel today?
+  - Answer: great
+  - Question: What did you do since Tuesday?
+  - Answer: since tuesday i have wrote a lot of requirements specification
+  - Question: What will you do today?
+  - Answer: today i have written a little requirement specification and then i have made the login page and sign up page.
+- Name: Kasper Juul Hermansen
+  - Date: 2019-09-10, 14:34:03
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since yesterday?
+  - Answer: I haven't done much
+  - Question: What will you do today?
+  - Answer: Today I will finish my part of the requirements specification, maybe add an issue statement.
+- Name: Samir Habibi
+  - Date: 2019-09-10, 14:35:31
+  - Question: How do you feel today?
+  - Answer: great
+  - Question: What did you do since yesterday?
+  - Answer: i have made the login page and sign up page
+- Name: Kasper Juul Hermansen
+  - Date: 2019-09-11, 13:31:09
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since yesterday?
+  - Answer: yesterday I wrote the last sections on our Requirements specification
+  - Question: What will you do today?
+  - Answer: Today I will setup the next sprint, review Samirs changes, have a meeting with a test user, where we go through the UI, after that I will look into, getting the kubernetes up and running with our first service, the users service.
+- Name: Kasper Juul Hermansen
+  - Date: 2019-09-12, 15:16:52
+  - Question: How do you feel today?
+  - Answer: Great
+  - Question: What did you do since yesterday?
+  - Answer: Yesterday I worked mostly on kubernetes and our pipelines. I am beginning to introduce a more simple pipeline, that should be more lightweight, and customizable. I also worked on users service, to get authorization and authentication to work.
+  - Question: What will you do today?
+  - Answer: Today I will work on authorization, authentication, various administrative tasks such as scrum. After that I will write an agenda and the issue statement for the requirements specification.
+- Name: Samir Habibi
+  - Date: 2019-09-13, 14:19:29
+  - Question: How do you feel today?
+  - Answer: great
+  - Question: What did you do since Tuesday?
+  - Answer: i have worked on dashboard page
+  - Question: What will you do today?
+  - Answer: we have supervisor meeting
+- Name: Kasper Juul Hermansen
+  - Date: 2019-09-13, 19:46:47
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since yesterday?
+  - Answer: Yesterday, I finished authentication with jwt.
+  - Question: What will you do today?
+  - Answer: Today I will clean and review
+- Name: Samir Habibi
+  - Date: 2019-09-16, 15:32:20
+  - Question: How do you feel today?
+  - Answer: great
+  - Question: What did you do since Friday?
+  - Answer: I've done the dashboard page and dashboard header
+  - Question: What will you do today?
+  - Answer: making fixes to the dashboard page and and I've started on settings page
+- Name: Samir Habibi
+  - Date: 2019-09-18, 14:36:08
+  - Question: How do you feel today?
+  - Answer: great
+  - Question: What did you do since Monday?
+  - Answer: i have worked on settings page
+  - Question: What will you do today?
+  - Answer: meeting with kasper and we have discussed some problems I had and solved them.
+  - Question: Anything blocking your progress?
+  - Answer: yes i have some problems with matrial ui components
+- Name: Kasper Juul Hermansen
+  - Date: 2019-09-18, 16:09:16
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since Friday?
+  - Answer: Since friday I got users-service to work, migrated pipelines to gitlab.
+  - Question: What will you do today?
+  - Answer: Today I will catch up with samir and finish the last on the requirements spec
+- Name: Kasper Juul Hermansen
+  - Date: 2019-09-19, 12:02:03
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since yesterday?
+  - Answer: Yesterday, I worked on fixing up our documents and utilizing a new git structure.
+  - Question: What will you do today?
+  - Answer: Today, I will work mainly on our documents, the goal is to get the Formulation of a problem done, the same for requirements specification. If I get tired of writing, I might begin splitting up some of our services.
+- Name: Kasper Juul Hermansen
+  - Date: 2019-09-20, 17:36:43
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since yesterday?
+  - Answer: not much
+  - Question: What will you do today?
+  - Answer: Today, I will split some services
+- Name: Samir Habibi
+  - Date: 2019-09-26, 15:31:25
+  - Question: How do you feel today?
+  - Answer: great
+  - Question: What did you do since Sep 18?
+  - Answer: I have completed login and signup, I have read and corrected requirements specification and issues statement, completed cooperation agreement
+  - Question: What will you do today?
+  - Answer: today i have set up software architecture and have started on it.
+- Name: Kasper Juul Hermansen
+  - Date: 2019-09-30, 12:05:25
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since Sep 20?
+  - Answer: It has been a while :slightly_smiling_face:
+First of all, I've nearly finished the restructuring of the frontend, the result seems pretty great. It has now integrated more deeply with material ui, formik and redux, which provides great functionality. The site has also launched on Zeit to use their lambda functions to drive agile development and scaleable infra. This is much easier than us having to host it ourselves. It also benefits in the case that it actually handles CI/CD for use in that case, with an included staging and prod environment.
+Secondly, I've worked on a bit of the documentation, but also on the backend services, authentication and users services has been split, and a few services are planned for this sprint, such as project, bidding and broker etc.
+  - Question: What will you do today?
+  - Answer: Today I will probably write a bit more on the frontend, then open a PR, if I've got the time, I might read the documents Samir should have uploadet to GitBooks and if then I still have time write on some more services, and maybe make them a bit easier to replicate.
+- Name: Samir Habibi
+  - Date: 2019-09-30, 14:47:35
+  - Question: How do you feel today?
+  - Answer: great
+  - Question: What did you do since Thursday?
+  - Answer: continued working with software architecture
+  - Question: What will you do today?
+  - Answer: work on software architecture
+- Name: Kasper Juul Hermansen
+  - Date: 2019-10-07, 12:05:35
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since Sep 30?
+  - Answer: Since monday I've done quite a bit, I've finished recoding the frontend app. I've implemented a new flow with redux and axios. Then I've done quite a bit of work on projects, I've made it possible to add and bid on projects through the web api. The thing that is still needed is the frontend and the ability for the backend to show a list of open projects (projects without a freelancer). Then I've done some work on the profile service, getting it ready for frontend work as well.
+  - Question: What will you do today?
+  - Answer: Today I don't have much time, but I'll probably do a bit of error checking and frontend work. I might also quickly do the profile backend or at least begin on it. This should be a blocker for Samir, so it could be nice if he had it, so that he could work tuesday and wednesday.
+- Name: Kasper Juul Hermansen
+  - Date: 2019-10-10, 16:32:10
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since Monday?
+  - Answer: Since monday I've worked primarily on the projects services
+  - Question: What will you do today?
+  - Answer: Today I will continue, but I will mainly work on the frontend, as the backend is nearing completion
+- Name: Samir Habibi
+  - Date: 2019-10-15, 15:39:23
+  - Question: How do you feel today?
+  - Answer: good
+  - Question: What did you do since Sep 30?
+  - Answer: we finished the previous sprint and we were missing a bit also we started on a new sprint. I've been working with the chat page, both front-end and back-end
+  - Question: What will you do today?
+  - Answer: today I work primarily on the front-end and have completed the chat page.
+  - Question: Anything blocking your progress?
+  - Answer: yes, i have had some backend issues
+- Name: Samir Habibi
+  - Date: 2019-10-16, 16:32:07
+  - Question: How do you feel today?
+  - Answer: good
+  - Question: What did you do since yesterday?
+  - Answer: worked on chat page and service
+  - Question: What will you do today?
+  - Answer: meeting with kasper, where we reviewed what is missing also I got help from him with backend and frontend
+- Name: Samir Habibi
+  - Date: 2019-10-22, 15:07:48
+  - Question: How do you feel today?
+  - Answer: not good
+  - Question: What did you do since Wednesday?
+  - Answer: i have worked on chat service
+  - Question: What will you do today?
+  - Answer: today I have not done so much besides little documentation, as I am very ill
+- Name: Kasper Juul Hermansen
+  - Date: 2019-11-04, 08:57:52
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since Oct 10?
+  - Answer: It has been a while, I've done quite a lot, I've nearly completed all the features until version 1 of converge-app. I've also written quite a bit of documentation.
+  - Question: What will you do today?
+  - Answer: Today I will work in ITWEB and maybe complete it. Also continue writing on the documentation, I am focusing on the deployment part at the moment, but the system design is also important.
+- Name: Samir Habibi
+  - Date: 2019-11-04, 13:01:43
+  - Question: How do you feel today?
+  - Answer: good
+  - Question: What did you do since Oct 22?
+  - Answer: done chat, finished a sprint, stopped coding, made system interfaces, accepted tests and started a new sprint and started the documentation.
+  - Question: What will you do today?
+  - Answer: written klientapplication section and i want to add images for system interfaces and write text for the different api.
+- Name: Samir Habibi
+  - Date: 2019-11-05, 13:15:15
+  - Question: How do you feel today?
+  - Answer: good
+  - Question: What did you do since yesterday?
+  - Answer: i have written system description, klientapplication and added some changes in system interface
+  - Question: What will you do today?
+  - Answer: i will write sequence diagram text and add them
+- Name: Kasper Juul Hermansen
+  - Date: 2019-11-12, 12:57:02
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since Nov 4?
+  - Answer: Since Nov 4 I've done quite a bit, I've written quite a bit of documentation, but we're missing quite a bit, so I really need to focus! I've also been very busy with our other classes, such as ITWEB.
+  - Question: What will you do today?
+  - Answer: Today I will finish as many documents as possible.
+  - Question: Anything blocking your progress?
+  - Answer: I need to have tests done, before I can write about them, that is important. I also need to contact Victor to figure out if he really wants to correct our report.
+- Name: Samir Habibi
+  - Date: 2019-11-12, 15:05:18
+  - Question: How do you feel today?
+  - Answer: good
+  - Question: What did you do since Nov 5?
+  - Answer: good
+  - Question: What will you do today?
+  - Answer: Since November 5, I have written system description and have embarked on software design. I have made many class charts and today I have done class diagrams.
+- Name: Kasper Juul Hermansen
+  - Date: 2019-11-13, 15:53:00
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since yesterday?
+  - Answer: Since yesterday, I wrote quite a bit for the repoirt. 4 pages down.
+  - Question: What will you do today?
+  - Answer: Today I will write some more, hopefully another 4
+- Name: Kasper Juul Hermansen
+  - Date: 2019-11-14, 11:27:21
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since yesterday?
+  - Answer: Since yesterday, I wrote more of the smaller subjects for the report
+  - Question: What will you do today?
+  - Answer: Today I will finish this part, and move onto more of the involved parts
+- Name: Samir Habibi
+  - Date: 2019-11-14, 14:39:13
+  - Question: How do you feel today?
+  - Answer: good
+  - Question: What did you do since Tuesday?
+  - Answer: we have done the first sprint with documentation and started on a new sprint with report. I have written research, software architecture and started designing in the report.
+  - Question: What will you do today?
+  - Answer: i have written the design section
+- Name: Samir Habibi
+  - Date: 2019-11-25, 13:34:40
+  - Question: How do you feel today?
+  - Answer: good
+  - Question: What did you do since Nov 14?
+  - Answer: have written report, started on unit test and integration test, and we have sent the report for proof.
+  - Question: What will you do today?
+  - Answer: to day i will work on integration test
+  - Question: Anything blocking your progress?
+  - Answer: yes
+- Name: Samir Habibi
+  - Date: 2019-12-03, 14:58:51
+  - Question: How do you feel today?
+  - Answer: good
+  - Question: What did you do since Nov 25?
+  - Answer: written lots of unit and integration tests, started on a new sprint and wrote unit test in the documentation
+  - Question: What will you do today?
+  - Answer: written system test
+- Name: Kasper Juul Hermansen
+  - Date: 2019-12-06, 14:35:23
+  - Question: How do you feel today?
+  - Answer: I feel great
+  - Question: What did you do since Nov 14?
+  - Answer: I've written a lot on the documentation
+  - Question: What will you do today?
+  - Answer: Today I will continue on a few extra documents.
+

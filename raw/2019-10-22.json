@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Samir Habibi* posted an update for *Daily Standup*",
+        "ts": "1571749668.000100",
+        "username": "Samir Habibi",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-10-22\/791604585106_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nnot good",
+                "text": "not good",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since Wednesday?\ni have worked on chat service",
+                "text": "i have worked on chat service",
+                "title": "What did you do since Wednesday?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\ntoday I have not done so much besides little documentation, as I am very ill",
+                "text": "today I have not done so much besides little documentation, as I am very ill",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Oct 22, 2019*\n",
+        "ts": "1571753723.000100",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Posted their update: *Samir Habibi*",
+                "id": 1,
+                "color": "6EC792",
+                "fallback": "Posted their update: *Samir Habibi*"
+            },
+            {
+                "text": "Still have time to report: <@UKL7DQYQ4>",
+                "id": 2,
+                "color": "F8AC59",
+                "fallback": "Still have time to report: <@UKL7DQYQ4>"
+            },
+            {
+                "pretext": "Participation: *50%*\nKeep up the good work! :tada:",
+                "id": 3,
+                "fallback": "[no preview available]"
+            }
+        ]
+    }
+]

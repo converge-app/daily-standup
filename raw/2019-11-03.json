@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Kasper Juul Hermansen* posted an update for *Daily Standup*",
+        "ts": "1572854272.000100",
+        "username": "converge.kjuulh",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-11-03\/820095109877_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nI feel great",
+                "text": "I feel great",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since Oct 10?\nIt has been a while, I've done quite a lot, I've nearly completed all the features until version 1 of converge-app. I've also written quite a bit of documentation.",
+                "text": "It has been a while, I've done quite a lot, I've nearly completed all the features until version 1 of converge-app. I've also written quite a bit of documentation.",
+                "title": "What did you do since Oct 10?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\nToday I will work in ITWEB and maybe complete it. Also continue writing on the documentation, I am focusing on the deployment part at the moment, but the system design is also important.",
+                "text": "Today I will work in ITWEB and maybe complete it. Also continue writing on the documentation, I am focusing on the deployment part at the moment, but the system design is also important.",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

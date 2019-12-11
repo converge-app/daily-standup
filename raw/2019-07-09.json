@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Kasper Juul Hermansen* posted an update for *Daily Standup*",
+        "ts": "1562666547.000100",
+        "username": "converge.kjuulh",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-07-09\/690801027142_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nTired",
+                "text": "Tired",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since yesterday?\nI began reading the golang for webdev github book",
+                "text": "I began reading the golang for webdev github book",
+                "title": "What did you do since yesterday?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\nContinue on it and maybe work on a bit of frontend as well",
+                "text": "Continue on it and maybe work on a bit of frontend as well",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Jul 9, 2019*\n",
+        "ts": "1562681355.000100",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Posted their update: *converge.kjuulh*",
+                "id": 1,
+                "color": "6EC792",
+                "fallback": "Posted their update: *converge.kjuulh*"
+            },
+            {
+                "text": "Still have time to report: <@UKP39PSBW>",
+                "id": 2,
+                "color": "F8AC59",
+                "fallback": "Still have time to report: <@UKP39PSBW>"
+            },
+            {
+                "pretext": "Participation: *50%*\nKeep up the good work! :tada:",
+                "id": 3,
+                "fallback": "[no preview available]"
+            }
+        ]
+    }
+]

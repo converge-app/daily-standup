@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Kasper Juul Hermansen* posted an update for *Daily Standup*",
+        "ts": "1570442735.000100",
+        "username": "converge.kjuulh",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-10-07\/785541106404_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nI feel great",
+                "text": "I feel great",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since Sep 30?\nSince monday I've done quite a bit, I've finished recoding the frontend app. I've implemented a new flow with redux and axios. Then I've done quite a bit of work on projects, I've made it possible to add and bid on projects through the web api. The thing that is still needed is the frontend and the ability for the backend to show a list of open projects (projects without a freelancer). Then I've done some work on the profile service, getting it ready for frontend work as well.",
+                "text": "Since monday I've done quite a bit, I've finished recoding the frontend app. I've implemented a new flow with redux and axios. Then I've done quite a bit of work on projects, I've made it possible to add and bid on projects through the web api. The thing that is still needed is the frontend and the ability for the backend to show a list of open projects (projects without a freelancer). Then I've done some work on the profile service, getting it ready for frontend work as well.",
+                "title": "What did you do since Sep 30?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\nToday I don't have much time, but I'll probably do a bit of error checking and frontend work. I might also quickly do the profile backend or at least begin on it. This should be a blocker for Samir, so it could be nice if he had it, so that he could work tuesday and wednesday.",
+                "text": "Today I don't have much time, but I'll probably do a bit of error checking and frontend work. I might also quickly do the profile backend or at least begin on it. This should be a blocker for Samir, so it could be nice if he had it, so that he could work tuesday and wednesday.",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Oct 7, 2019*\n",
+        "ts": "1570457030.000200",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Posted their update: *converge.kjuulh*",
+                "id": 1,
+                "color": "6EC792",
+                "fallback": "Posted their update: *converge.kjuulh*"
+            },
+            {
+                "text": "Still have time to report: <@UKP39PSBW>",
+                "id": 2,
+                "color": "F8AC59",
+                "fallback": "Still have time to report: <@UKP39PSBW>"
+            },
+            {
+                "pretext": "Participation: *50%*\nKeep up the good work! :tada:",
+                "id": 3,
+                "fallback": "[no preview available]"
+            }
+        ]
+    }
+]

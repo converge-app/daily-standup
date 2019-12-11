@@ -1,0 +1,98 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1560872642.000200",
+        "user": "UKL7DQYQ4",
+        "text": "<@UKL7DQYQ4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1560872665.000400",
+        "user": "UKNNKP6PP",
+        "text": "<@UKNNKP6PP> has joined the channel",
+        "inviter": "UKL7DQYQ4"
+    },
+    {
+        "bot_id": "BKNNKP6ER",
+        "type": "message",
+        "text": "Hi there, I am Geekbot and I will be helping you with your meetings! Your first report for *Daily Standup* is *tomorrow* at *12:00 AM* (in your local timezone).\n\n :bulb: Learn all the tips &amp; tricks and *boost your team’s productivity* <https:\/\/geekbot.com\/guides?utm_source=bot-welcome&amp;utm_medium=bot|Read our guides>.",
+        "user": "UKNNKP6PP",
+        "ts": "1560872665.000500",
+        "team": "TKNGYGV1D",
+        "bot_profile": {
+            "id": "BKNNKP6ER",
+            "deleted": false,
+            "name": "Geekbot",
+            "updated": 1560872526,
+            "app_id": "A0H67RAG0",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-10-18\/458684668640_b6e0feb5a3be66d465f4_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-10-18\/458684668640_b6e0feb5a3be66d465f4_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-18\/458684668640_b6e0feb5a3be66d465f4_72.png"
+            },
+            "team_id": "TKNGYGV1D"
+        },
+        "attachments": [
+            {
+                "title": "Geekbot",
+                "title_link": "https:\/\/geekbot.com\/guides?utm_source=bot-welcome&utm_medium=bot",
+                "text": "Learn how to get started and how to customize your stand-ups, Make the most out of Geekbot, give your team a boost in productivity.",
+                "fallback": "Geekbot",
+                "image_url": "https:\/\/geekbot.com\/static\/img\/og-image.png",
+                "from_url": "https:\/\/geekbot.com\/guides?utm_source=bot-welcome&utm_medium=bot",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 72576,
+                "service_icon": "https:\/\/geekbot.com\/apple-touch-icon-57x57.png",
+                "service_name": "Geekbot - Asynchronous stand-up meetings in Slack",
+                "id": 1,
+                "original_url": "https:\/\/geekbot.com\/guides?utm_source=bot-welcome&amp;utm_medium=bot"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Kasper Juul Hermansen* posted an update for *Daily Standup*",
+        "ts": "1560872857.000700",
+        "username": "converge.kjuulh",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-06-18\/657367696179_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nI feel great",
+                "text": "I feel great",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since yesterday?\nI have created the preproject journal, and writen the requirements specification.",
+                "text": "I have created the preproject journal, and writen the requirements specification.",
+                "title": "What did you do since yesterday?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\nI will write the last for the preproject journal",
+                "text": "I will write the last for the preproject journal",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

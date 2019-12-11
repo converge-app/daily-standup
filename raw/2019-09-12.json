@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Kasper Juul Hermansen* posted an update for *Daily Standup*",
+        "ts": "1568294212.000100",
+        "username": "Geekbot",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-09-12\/746475360563_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nGreat",
+                "text": "Great",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since yesterday?\nYesterday I worked mostly on kubernetes and our pipelines. I am beginning to introduce a more simple pipeline, that should be more lightweight, and customizable. I also worked on users service, to get authorization and authentication to work.",
+                "text": "Yesterday I worked mostly on kubernetes and our pipelines. I am beginning to introduce a more simple pipeline, that should be more lightweight, and customizable. I also worked on users service, to get authorization and authentication to work.",
+                "title": "What did you do since yesterday?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\nToday I will work on authorization, authentication, various administrative tasks such as scrum. After that I will write an agenda and the issue statement for the requirements specification.",
+                "text": "Today I will work on authorization, authentication, various administrative tasks such as scrum. After that I will write an agenda and the issue statement for the requirements specification.",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Sep 12, 2019*\n",
+        "ts": "1568296838.000100",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Posted their update: *converge.kjuulh*",
+                "id": 1,
+                "color": "6EC792",
+                "fallback": "Posted their update: *converge.kjuulh*"
+            },
+            {
+                "text": "Still have time to report: <@UKP39PSBW>",
+                "id": 2,
+                "color": "F8AC59",
+                "fallback": "Still have time to report: <@UKP39PSBW>"
+            },
+            {
+                "pretext": "Participation: *50%*\nKeep up the good work! :tada:",
+                "id": 3,
+                "fallback": "[no preview available]"
+            }
+        ]
+    }
+]

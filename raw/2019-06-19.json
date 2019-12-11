@@ -1,0 +1,188 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Kasper Juul Hermansen* posted an update for *Daily Standup*",
+        "ts": "1560930416.000100",
+        "username": "converge.kjuulh",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-06-19\/669095702500_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nGreat",
+                "text": "Great",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since yesterday?\nI've finished the rest of the required documents for Preproject",
+                "text": "I've finished the rest of the required documents for Preproject",
+                "title": "What did you do since yesterday?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\nCreate schedule (timeline)",
+                "text": "Create schedule (timeline)",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1560932340.000300",
+        "user": "UKP39PSBW",
+        "text": "<@UKP39PSBW> has joined the channel",
+        "inviter": "UKL7DQYQ4"
+    },
+    {
+        "type": "message",
+        "subtype": "app_conversation_leave",
+        "ts": "1560932385.000500",
+        "user": "UKNN5NUKF",
+        "text": "<@UKNN5NUKF> was removed from this conversation",
+        "inviter": "UKL7DQYQ4"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Samir Habibi* posted an update for *Daily Standup*",
+        "ts": "1560932785.000600",
+        "username": "Samir Habibi",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-06-19\/671453677719_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nGreat",
+                "text": "Great",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since yesterday?\nSince yesterday I have written workplace, Experiment and work plan section finished",
+                "text": "Since yesterday I have written workplace, Experiment and work plan section finished",
+                "title": "What did you do since yesterday?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\ntoday i will finish the final writing work and push it up.",
+                "text": "today i will finish the final writing work and push it up.",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "Anything blocking your progress?\nyesterday i had trouble pushing things up on gitlab and it is fixed now, but otherwise there was nothing that blocked my progress",
+                "text": "yesterday i had trouble pushing things up on gitlab and it is fixed now, but otherwise there was nothing that blocked my progress",
+                "title": "Anything blocking your progress?",
+                "id": 4,
+                "color": "e59797",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Engagement summary for *Daily Standup* on *Jun 19, 2019*\n",
+        "ts": "1560953380.000100",
+        "username": "Geekbot",
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "text": "Posted their update: *converge.kjuulh*, *Samir Habibi*",
+                "id": 1,
+                "color": "6EC792",
+                "fallback": "Posted their update: *converge.kjuulh*, *Samir Habibi*"
+            },
+            {
+                "pretext": "Participation: *100%*\nAwesome, you're doing great! :rocket:",
+                "id": 2,
+                "fallback": "[no preview available]"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Kasper Juul Hermansen* posted an update for *Daily Standup*",
+        "ts": "1561008663.000100",
+        "username": "converge.kjuulh",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-06-19\/670810132069_48.png"
+        },
+        "bot_id": "BKNNKP6ER",
+        "attachments": [
+            {
+                "fallback": "How do you feel today?\nI feel great",
+                "text": "I feel great",
+                "title": "How do you feel today?",
+                "id": 1,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What did you do since yesterday?\nI submitted handin for our preproject, as such I also did the review part and created a schedule.",
+                "text": "I submitted handin for our preproject, as such I also did the review part and created a schedule.",
+                "title": "What did you do since yesterday?",
+                "id": 2,
+                "color": "c0dadb",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "What will you do today?\nToday I am going to organize the next month, and figure out which tools we want for a wholesome Cloud Native project. I way also begin setting up our different templates.",
+                "text": "Today I am going to organize the next month, and figure out which tools we want for a wholesome Cloud Native project. I way also begin setting up our different templates.",
+                "title": "What will you do today?",
+                "id": 3,
+                "color": "839bbd",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "fallback": "Anything blocking your progress?\nNothing right now, if anything it's a lack of knowledge about certain DevOps tools",
+                "text": "Nothing right now, if anything it's a lack of knowledge about certain DevOps tools",
+                "title": "Anything blocking your progress?",
+                "id": 4,
+                "color": "e59797",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]
